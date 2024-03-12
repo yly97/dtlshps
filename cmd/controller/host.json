@@ -1,0 +1,18 @@
+{
+    "h1": {
+        "device": 1,
+        "PSK": "xxxx"
+    },
+    "h2": {
+        "device": 1,
+        "PSK": "xxxx"
+    },
+    "h3": {
+        "device": 2,
+        "PSK": "xxxx"
+    },
+    "h4": {
+        "device": 2,
+        "PSK": "xxxx"
+    }
+}
